@@ -1,0 +1,7 @@
+opencv-python
+torch
+numpy
+gradio
+face-recognition
+torchvision
+matplotlib
